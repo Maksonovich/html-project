@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans';
+}
+.wrapper {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+.container {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}

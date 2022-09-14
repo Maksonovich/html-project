@@ -1,0 +1,9 @@
+/* .header_inner{
+    display: flex;
+    justify-content: space-between;
+
+} */
+.header_inner ul{
+    display: flex;
+    list-style: none;
+}
